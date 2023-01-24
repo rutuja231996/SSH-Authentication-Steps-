@@ -22,3 +22,11 @@ Add the private key using absolute path:
 
 ![image](https://user-images.githubusercontent.com/58244012/214314715-4cb3c5bb-7841-436f-976d-5cc46c4b5998.png)
 
+Go to your github account :
+Setting :
+![image](https://user-images.githubusercontent.com/58244012/214315135-63785b99-9acb-4653-8524-94e62109638a.png)
+
+
+
+
+
