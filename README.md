@@ -8,6 +8,8 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 
 use command ls check private and pblic keys are generated 
+
+
 ![image](https://user-images.githubusercontent.com/58244012/214313311-8504891a-f613-47f1-889d-6dd2c0e16ff3.png)
 
 
